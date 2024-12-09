@@ -1,0 +1,11 @@
+**Database Name: membershiphp**
+
+**Developed by Kamangaru **
+
+**Recommended PHP Version 7**
+
+
+**Login Details**
+
+Email   : kamangaru@secmail.com
+Password: kamangaru
