@@ -119,4 +119,4 @@ For any questions or feedback, feel free to open an issue or reach out directly 
 
 ---
 
-his `README` provides the essential information for setting up and contributing to the **Chama Management System**. If you encounter any issues or need assistance, don't hesitate to contact us!
+This `README` provides the essential information for setting up and contributing to the **Chama Management System**. If you encounter any issues or need assistance, don't hesitate to contact us!
